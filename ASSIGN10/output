@@ -1,0 +1,11 @@
+root@shubham-pc:~# gedit test.c
+
+** (gedit:2087): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:2087): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:2087): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+root@shubham-pc:~# gcc test.c
+root@shubham-pc:~# ./a.out
+system call sys_hello returned : 0
+root@shubham-pc:~#
